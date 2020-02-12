@@ -1,0 +1,5 @@
+Abrir cmd 
+1: pip install requests
+2:pip install colorama
+3:pip search yaml
+4:pip install yaml
